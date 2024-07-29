@@ -1,6 +1,7 @@
 # flutter_vid_player
 
-A new Flutter project.
+A new Flutter project implementing VideoPlayer in android, ios and web by using Dart. 
+Studied about OOP and life-cycle of 'StatfulWidget' & 'State'.
 
 ## Getting Started
 
